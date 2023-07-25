@@ -1,0 +1,191 @@
+body {
+    background-color: black;
+    color: white;
+
+}
+
+/* CSS FOR THE HEADER */
+.mom {
+    background-color: rgb(233, 222, 222);
+    color: black;
+    text-align: center;
+}
+
+
+img {
+    width: 80%;
+    border-radius: 7px;
+    margin: 5px;
+}
+
+.hqp {
+    background-color: white;
+}
+
+.vic {
+    /* margin: 5px; */
+    padding: 20px;
+    margin-left: 50px;
+}
+
+.won {
+    color: white;
+    font-size: 40px;
+}
+
+.chi {
+    border: 1px solid rgb(189, 179, 179);
+}
+
+/* CSS FOR ABOUT US */
+.nem {
+    background-color:rgb(233, 222, 222);
+    color: black;
+}
+
+.bTn2 {
+    margin-bottom: 5px;
+    width: 50%;
+    border: 1px solid goldenrod;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    padding: 10px 28px 11px 28px;
+    border-radius: 50px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.bTn2:hover {
+    background-color: black;
+    color: white;
+}
+
+.jul {
+    background-color: black;
+    color: white;
+}
+
+.obi {
+    margin: 20px;
+}
+
+.chizy {
+    text-align: center;
+}
+
+.qop:hover {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+
+/* css for facebook */
+.ble {
+    color: white;
+    background-color: #3b5998;
+    padding: 7px;
+    border-radius: 50px;
+}
+
+/* csss for watsapp */
+.sip {
+    color: white;
+    background-color: rgb(21, 228, 21);
+    padding: 7px;
+    border-radius: 50px;
+    margin: 10px;
+}
+
+/* css for twitter */
+.min {
+    color: white;
+    background-color: skyblue;
+    padding: 7px;
+    border-radius: 50px;
+    margin: 10px;
+}
+
+#man {
+    margin: 50px;
+    padding: 15px;
+    /* color: white; */
+    
+}
+.dum {
+    margin: 20px;
+    padding: 10px;
+}
+/* CSSS FOR HTML3 */
+.oka {
+    background-color: rgb(233, 222, 222);
+    color:goldenrod ;
+    text-align: center;
+}
+.oka2 {
+    color: black;
+    padding-right: 280px;
+
+}
+.oka2:hover {
+    color: goldenrod;
+}
+
+ .kas {
+    text-align: center;
+    color: black;
+ }
+ 
+ form {
+    width: 80%;
+    margin: 40px;
+    color: white;
+ }
+ .joel{
+    padding: 10px;
+    border-radius: 7px;
+    width: 100%;
+    
+ }
+ .joel2 {
+    padding: 10px;
+    border-radius: 7px;
+    width: 100%; 
+  
+ }
+ .joel3 {
+    padding: 10px;
+    border-radius: 7px;
+    width: 100%;
+    
+ }
+ .joel4 {
+    padding-bottom: 80px;
+    border-radius: 7px;
+    width: 100%;  
+ }
+
+ .bTn5 {
+    margin-bottom: 15px;
+    /* width: 50%; */
+    border: 1px solid;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    padding: 10px 15px 10px 15px;
+    border-radius: 50px;
+    background-color: goldenrod;
+    text-align: center;
+    color: black;
+ }
+
+ .bTn5:hover {
+    background-color: goldenrod;
+    color: black;
+ }
+
+ .oka3 {
+    color: black;
+    margin: 10px;
+ }
+
+
